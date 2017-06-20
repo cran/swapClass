@@ -1,0 +1,5 @@
+importFrom(utils, combn)
+importFrom(methods, signature)
+import(inline)
+exportPattern("^[[:alpha:]]+")
+
