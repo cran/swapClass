@@ -3,7 +3,7 @@
 .onLoad = function(libname, pkgname) {
 
 code_swapC =
-"srand(time(NULL));
+"srand((unsigned)time(NULL));
 int ok,vc1,vc2,vr1,vr2,a1,a2,npos;
 /*int pos [(*nr)-1];*/
 int pos [(*nc)-1];

@@ -12,8 +12,8 @@ A null model randomizing semi-quantitative multi-classes (or ordinal) data by sw
 \tabular{ll}{
 Package: \tab swapClass\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2017-06-20\cr
+Version: \tab 1.0.1\cr
+Date: \tab 2017-06-22\cr
 License: \tab GPL-3\cr
 }
 }
